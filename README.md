@@ -8,3 +8,6 @@ You have to have inotify-tools package installed.
 
 ./banksi.sh
 
+Open art.jpg with your favourite image viewer or just with file explorer.
+
+![result.jpg](result.jpg)
