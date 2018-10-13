@@ -4,5 +4,7 @@ Unixway to show Banksi trick. orignated from https://twitter.com/climagic/status
 
 You have to have inotify-tools package installed.
 
+![art.jpg](art.jpg)
+
 ./banksi.sh
 
